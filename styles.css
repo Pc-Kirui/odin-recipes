@@ -1,0 +1,19 @@
+h1{
+    color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    text-align: center;
+}
+ul,ol{
+    font-size: large;
+    color: rgb(189, 141, 52);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: justify;
+    background-color: aqua;
+}
+p{
+    font-size: large;
+    font-family: sans-serif;
+    color: aquamarine;
+}
