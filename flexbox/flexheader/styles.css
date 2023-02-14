@@ -1,0 +1,36 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.parent{
+    background-color: pink;
+    padding: 8px;
+    margin: 0px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    background: papayawhip;
+    padding: 8px;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: tomato;
+    background: white;
+    padding: 4px 32px;
+    font-size: 48px;
+    font-weight: 700;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+}
+a{
+    background-color: white;
+    font: 22px;
+    padding: 8px;
+    text-decoration: none;
+}
